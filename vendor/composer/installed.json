@@ -1,0 +1,40 @@
+[
+    {
+        "name": "qrzysio/mysql-pdo-class",
+        "version": "v1.0.7",
+        "version_normalized": "1.0.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Qrzysio/MySQL-PDO-class.git",
+            "reference": "ae0a59878c44466b2aa612dd31cd41b20af93d17"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/Qrzysio/MySQL-PDO-class/zipball/ae0a59878c44466b2aa612dd31cd41b20af93d17",
+            "reference": "ae0a59878c44466b2aa612dd31cd41b20af93d17",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.1.0"
+        },
+        "time": "2018-05-05T16:02:03+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/mysql.pdo.lib.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Just another PHP class to cope with MySQL via PDO.",
+        "keywords": [
+            "class",
+            "mysql",
+            "pdo",
+            "php"
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c3ac0a46600262e3731e4e75ed820b8f",
+    "packages": [
+        {
+            "name": "qrzysio/mysql-pdo-class",
+            "version": "v1.0.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Qrzysio/MySQL-PDO-class.git",
+                "reference": "ae0a59878c44466b2aa612dd31cd41b20af93d17"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Qrzysio/MySQL-PDO-class/zipball/ae0a59878c44466b2aa612dd31cd41b20af93d17",
+                "reference": "ae0a59878c44466b2aa612dd31cd41b20af93d17",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.1.0"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/mysql.pdo.lib.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Just another PHP class to cope with MySQL via PDO.",
+            "keywords": [
+                "class",
+                "mysql",
+                "pdo",
+                "php"
+            ],
+            "time": "2018-05-05T16:02:03+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "qrzysio/mysql-pdo-class": "^1.0"
+    }
+}
